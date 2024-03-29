@@ -3,6 +3,6 @@
 ## Installation
 
 ```
-brew tap kawamurakazushi/tap
-brew install tle
+brew tap alexcloudstar/tap
+brew install tstpmove 
 ```
